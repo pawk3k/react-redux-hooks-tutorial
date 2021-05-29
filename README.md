@@ -14,3 +14,4 @@ Are css classes that are showing image of bulb on or off
 Here what you can see 
 
 End result should be 
+![](task1.gif)
