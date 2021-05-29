@@ -1,6 +1,5 @@
-# In there will be few tasks about react 
+# To start :
 
-# Req
 
 In first Task you have to make bulb bulbs working by simply adding state.
 
@@ -13,5 +12,8 @@ Are css classes that are showing image of bulb on or off
 
 Here what you can see 
 
-End result should be 
+End result should be :
+
+
 ![](task1.gif)
+
