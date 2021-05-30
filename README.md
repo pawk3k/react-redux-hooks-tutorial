@@ -45,6 +45,7 @@ Be careful with dependencies for `useEffect` hook as it might trigger color chan
 Here what can happen when dependencies are not correct:
 
 Unexpected:
+
 ![](task2-unexpected.gif)
 
 
