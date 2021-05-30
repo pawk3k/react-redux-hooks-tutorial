@@ -5,8 +5,10 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.5.1",
     "react": "16.11.0",
     "react-dom": "16.11.0",
+    "react-redux": "^7.2.4",
     "react-scripts": "3.2.0"
   },
   "devDependencies": {
