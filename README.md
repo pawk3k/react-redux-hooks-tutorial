@@ -74,7 +74,7 @@ Expected:
 
 Go to file `BulbResizeAble.js
 
-Lets imagine that some times we want to increase size of our bulb twice or decrease it size twice or change it's size by some multiplier , let's accomplish  this through adding `useReduce` hook and then we can add more interactions with our state if needed.
+Lets imagine that some times we want to increase size of our bulb twice or decrease it size twice or change it's size by some multiplier , let's accomplish  this through adding `useReducer` hook and then we can add more interactions with our state if needed.
 
 go to file `BulbResizable.js` and add missing to code 
 
